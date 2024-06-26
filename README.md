@@ -1,5 +1,7 @@
 # AstroPaper 📄
 
+I want to build a blog based Astro-Paper, then I also want to integrate more modules such as React, TailWind, Cloudflare, Wrangler, etc; and support SSR ready. I can't find the suitable of Astro blog template, so I create this one, I will continue to improve it. If you have the same idea, you can check out it.
+
 ![AstroPaper](public/astropaper-og.jpg)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/satnaing/astro-paper?color=%232F3741&style=for-the-badge)
